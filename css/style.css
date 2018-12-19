@@ -29,6 +29,8 @@ body {
 	body b {
 		font:500 15px/24px Roboto Condensed;
 	}
+	.married_txt b{font:500 24px/21px Roboto Condensed;
+}
 html {
 	min-height:100%;
 	height:100%
@@ -375,6 +377,8 @@ header {
 	width:100%;
 	z-index:4;
 	bottom:26px;
+	padding-top: 10px;
+	background: rgba(0, 0, 0, 0.3);
 }
 .player {
 	max-width: 320px;
@@ -1781,4 +1785,5 @@ header {
 
 	
 }
+
 
