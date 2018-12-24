@@ -1545,7 +1545,7 @@ header {
 	}
 
 		.gallery_txt:before {
-			background:rgba(0,0,0,0.6);
+			background:rgba(0, 0, 0, 0.34);
 			display:block;
 			content:"";
 			position:absolute;
